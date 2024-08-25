@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project is a recommendation engine for YU Torah, utilizing machine learning algorithms to deliver personalized lecture suggestions to users. By analyzing user preferences and interaction history, TorahNavigator enhances the learning experience by providing tailored content that matches individual interests and study patterns.
+TorahNavigator is an advanced recommendation engine developed over a two-month summer project for the course Industrial Software Development COM-4570H. The project leverages state-of-the-art machine learning algorithms to provide personalized lecture recommendations on YU Torah, significantly enhancing the learning experience by aligning content with individual user preferences and study patterns. This system analyzes extensive user interaction data, including favorites, listening duration, and lecture queues, to deliver highly relevant suggestions tailored to each user’s unique learning journey.
+
+Link to Presentation: https://youtu.be/6n4qMboneLA
 
 ## Project Structure
 
